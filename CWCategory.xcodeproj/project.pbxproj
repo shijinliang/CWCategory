@@ -470,6 +470,7 @@
 				3CABC5A61F5E43F100E04106 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CABC5A71F5E43F100E04106 /* Build configuration list for PBXNativeTarget "CWCategoryTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +479,7 @@
 				3CABC5A91F5E43F100E04106 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
