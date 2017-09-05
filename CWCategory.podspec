@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.source_files  = "Classes", "CWCategory/CWCategoryClass/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "CWCategory/CWCategoryClass/CWCategory.h"
+  s.public_header_files = "CWCategory/CWCategoryClass/CWCategory.h","CWCategory/CWCategoryClass/**/*.h"
 
   s.requires_arc = true
 
