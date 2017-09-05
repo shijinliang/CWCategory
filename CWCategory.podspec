@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CWCategory"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "This is ClouderWork's Category."
 
   s.description  = <<-DESC
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   # s.platform     = :ios
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/shijinliang/CWCategory.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/shijinliang/CWCategory.git", :tag => "0.0.3" }
 
   s.source_files  = "Classes", "CWCategory/CWCategoryClass/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
