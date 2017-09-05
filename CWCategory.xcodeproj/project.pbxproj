@@ -55,7 +55,7 @@
 		3CABC5B41F5E441900E04106 /* UITableViewCell+ext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewCell+ext.m"; sourceTree = "<group>"; };
 		3CABC5B51F5E441900E04106 /* UIView+NH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+NH.h"; sourceTree = "<group>"; };
 		3CABC5B61F5E441900E04106 /* UIView+NH.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+NH.m"; sourceTree = "<group>"; };
-		3CABC5BD1F5E44BA00E04106 /* CWCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWCategory.h; sourceTree = "<group>"; };
+		3CABC5BF1F5E778000E04106 /* CWCategory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CWCategory.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,9 +131,9 @@
 		3CABC5AA1F5E441900E04106 /* CWCategoryClass */ = {
 			isa = PBXGroup;
 			children = (
-				3CABC5BD1F5E44BA00E04106 /* CWCategory.h */,
 				3CABC5AB1F5E441900E04106 /* Foundation */,
 				3CABC5AC1F5E441900E04106 /* UIKit */,
+				3CABC5BF1F5E778000E04106 /* CWCategory.h */,
 			);
 			path = CWCategoryClass;
 			sourceTree = "<group>";

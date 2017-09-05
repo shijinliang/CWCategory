@@ -6,7 +6,6 @@
 //  Copyright © 2017年 kamy. All rights reserved.
 //
 
-
 #ifndef CWCategory_h
 #define CWCategory_h
 
@@ -16,4 +15,4 @@
 #import "UITableViewCell+ext.h"
 #import "UIView+NH.h"
 
-#endif /* Header_h */
+#endif /* CWCategory_h */
